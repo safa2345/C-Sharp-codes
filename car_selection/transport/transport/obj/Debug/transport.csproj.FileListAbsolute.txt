@@ -1,0 +1,8 @@
+E:\Learning c#\transport\transport\bin\Debug\transport.exe.config
+E:\Learning c#\transport\transport\bin\Debug\transport.exe
+E:\Learning c#\transport\transport\bin\Debug\transport.pdb
+E:\Learning c#\transport\transport\obj\Debug\transport.csproj.AssemblyReference.cache
+E:\Learning c#\transport\transport\obj\Debug\transport.csproj.SuggestedBindingRedirects.cache
+E:\Learning c#\transport\transport\obj\Debug\transport.csproj.CoreCompileInputs.cache
+E:\Learning c#\transport\transport\obj\Debug\transport.exe
+E:\Learning c#\transport\transport\obj\Debug\transport.pdb
